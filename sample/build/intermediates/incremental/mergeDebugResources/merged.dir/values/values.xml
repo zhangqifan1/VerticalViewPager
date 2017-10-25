@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <declare-styleable name="VerticalTabLayout"><attr format="color" name="indicator_color"/><attr format="dimension" name="indicator_width"/><attr format="dimension" name="indicator_corners"/><attr format="enum" name="indicator_gravity">
+            <enum name="left" value="3"/>
+            <enum name="right" value="5"/>
+            <enum name="fill" value="119"/>
+        </attr><attr format="dimension" name="tab_margin"/><attr format="enum" name="tab_mode">
+            <enum name="fixed" value="10"/>
+            <enum name="scrollable" value="11"/>
+        </attr><attr format="dimension" name="tab_height">
+        </attr></declare-styleable>
+    <dimen name="pagemargin">16dp</dimen>
+    <string name="app_name">VerticalViewPager</string>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

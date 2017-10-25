@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\TRY\\MyApplication2\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_layout.xml",
+        "source": "D:\\TRY\\MyApplication2\\sample\\src\\main\\res\\layout\\fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\TRY\\MyApplication2\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\TRY\\MyApplication2\\sample\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\TRY\\MyApplication2\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\TRY\\MyApplication2\\sample\\src\\main\\res\\layout\\list_item.xml"
+    }
+]

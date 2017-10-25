@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Wed Oct 25 08:31:32 CST 2017
+2.base=D\:\\TRY\\MyApplication2\\sample\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\TRY\\MyApplication2\\sample\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=D\:\\TRY\\MyApplication2\\sample\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\TRY\\MyApplication2\\sample\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=D\:\\TRY\\MyApplication2\\sample\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-mdpi-v4\\ic_launcher.png
+4.base=D\:\\TRY\\MyApplication2\\sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+7.file=D\:\\TRY\\MyApplication2\\sample\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xxxhdpi-v4\\ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=11
+0.file=D\:\\TRY\\MyApplication2\\sample\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=D\:\\TRY\\MyApplication2\\sample\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\TRY\\MyApplication2\\sample\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\list_item.xml
+4.set=DEX
+6.base=D\:\\TRY\\MyApplication2\\sample\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\TRY\\MyApplication2\\sample\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+9.set=ANDROID_RESOURCE
+9.file=D\:\\TRY\\MyApplication2\\sample\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xxhdpi-v4\\ic_launcher.png
+10.base=D\:\\TRY\\MyApplication2\\sample\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=D\:\\TRY\\MyApplication2\\sample\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\TRY\\MyApplication2\\sample\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-hdpi-v4\\ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=D\:\\TRY\\MyApplication2\\sample\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\TRY\\MyApplication2\\sample\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\TRY\\MyApplication2\\sample\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\fragment_layout.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\TRY\\MyApplication2\\sample\\build\\intermediates\\res\\resources-debug.ap_
+9.base=D\:\\TRY\\MyApplication2\\sample\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\TRY\\MyApplication2\\sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

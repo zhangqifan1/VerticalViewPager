@@ -1,0 +1,1 @@
+include ':app', ':VerticalViewPagerilbrary', ':sample', ':library'
